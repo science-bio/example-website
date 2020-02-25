@@ -4,7 +4,7 @@ title: "Alan's Website"
 
 Hello, World!
 
-#remove backslashes before ticks to get this to work. 
+ 
 ```{r, echo = FALSE, fig.align='center'}
 library(tidyverse)
 cool_function <- function(x, alpha) return(sin(alpha*x))
